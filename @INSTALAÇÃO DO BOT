@@ -1,0 +1,49 @@
+Bom, mano para instalar a lolizita versão 5
+Vai precisa de coisas básicas, como:
+
+1° Baixar os arquivos do bot na descrição do video
+
+2° Depois vão extrair em algum lugar.
+Pode qualquer lugar
+
+3° Depois vão no termux e dão esses comandos básicos
+
+$ termux-setup-storage
+
+Vai pedir permissão e vocês aceitem
+
+$ cd /sdcard
+$ ls
+
+Depois desse comandos vai aparecer os arquivos do seu celular em armazenamento interno
+
+Aí depois disso vocês vão ter q achar o diretório do bot
+Tipo
+cd /sdcard/donwload/Lolizita-BOT
+Depois de achar o diretório do bot, vocês dão esse comando:
+$ bash install.sh
+
+Vai carregar uns pkg, e vão pedir y ou n
+Sempre com Y e depois enter.
+
+Depois de carregar tudo
+Vcs dão outro comando
+$ npm start
+
+Aí vai aparecer um qr code onde vocês vão ler com outro celular ou até mesmo o seu
+
+Depois disso é só configurar o bot da maneira q quiserem
+
+Comandos:
+termux-setup-storage
+cd /sdcard/download/Lolizita-BOT
+bash install.sh
+npm start
+sh lolizita.sh
+
+「❗*Sistema para o bot não cair*❗」
+
+sh lolizita.sh
+
+VIDEO INSTALANDO DO 0 KKKJ
+https://www.mediafire.com/file/xipf04mom9eequa/20211029_151930.mp4/file
